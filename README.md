@@ -4,5 +4,6 @@ Hi,
    if required i will use LDA and finally i will be using linear regression model
    by train,test split method using sklearn library and also i will make the data structured
    as it contains many NAN values and unordered set of values that cannot be taken into a model,
-   finally if someone wants to know the market trend according to the model they wants to launch,
-   so they can plan according the price range
+   finally if someone wants to know the market trend according to the model they want to launch,
+   they can plan and design according to the price range in the initial stage itself, so that
+   it could end as profitable initiative
