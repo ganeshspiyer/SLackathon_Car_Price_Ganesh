@@ -24,7 +24,8 @@
                        and finally i will be using linear regression model by train,test split method 
                        using sklearn library and also i will make the data structured
                        as it contains many NAN values and unordered set of values that cannot be taken into a model.
-                       Will try watson studio for Auto AI.
+                       Will try watson studio for Auto AI model selection and will try with deployment through
+                       IBM cloud.
 
 
 
