@@ -10,7 +10,7 @@ I'm going to use the above dataset from the image to predict the price of the ca
 
 #Car Pricing
 
-Predicting car price using variable such as price range,car style,milage,vehile type,transmission type,keep the price of the car according to the market trend by planning in the initial stage itself and can continue design 
+Predicting car price using variable such as price range,car style,mileage,vehile type,transmission type,keep the price of the car according to the market trend by planning in the initial stage itself and can continue design 
 
 ##How can technology help?
 
